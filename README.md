@@ -41,7 +41,7 @@ node --test tests/*.test.mjs
 
 ## 公開網站
 
-預期網址為 https://harrylin0312.github.io/BioMotion/ 。只有 Pages 部署成功才代表網址已上線。
+預期網址為 https://harrylin0312.github.io/bio_motion/ 。只有 Pages 部署成功才代表網址已上線。
 
 工作流程會嘗試啟用 Pages；若首次部署因權限失敗，請由儲存庫擁有者在 Settings → Pages → Source 選擇 GitHub Actions，再重新執行工作流程。
 
